@@ -1,0 +1,28 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Great",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ollynov/tic-tac-toe-1hour.git"
+  },
+  "keywords": [
+    "tic"
+  ],
+  "author": "Yosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ollynov/tic-tac-toe-1hour/issues"
+  },
+  "homepage": "https://github.com/Ollynov/tic-tac-toe-1hour#readme"
+}
